@@ -1,7 +1,8 @@
 # Immaculate Khaoma — Developer Portfolio 🌍💻
 
 Welcome to my personal developer portfolio! This site is a showcase of my work, skills, and experience in **GIS development**, **web design**, and **data visualization**.
-I created it to serve as a dynamic representation of my growth, learning journey, and the projects I’m passionate about.
+I created it to serve as a dynamic representation of my growth, learning journey, and the projects I’m passionate about. [View Portfolio](https://khaif-dev.github.io/My-Portfolio/)
+
 
 ## 🚀 About the Project
 
